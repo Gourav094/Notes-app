@@ -9,22 +9,7 @@ const App = () => {
   const [notes, setNotes] = useState([
     {
       id: nanoid(),
-      text: "This is my first note! HEHE",
-      date: "15/07/2023"
-    },
-    {
-      id: nanoid(),
-      text: "This is my second  note! HEHE",
-      date: "15/07/2023"
-    },
-    {
-      id: nanoid(),
-      text: "This is my third note! HEHE",
-      date: "15/07/2023"
-    },
-    {
-      id: nanoid(),
-      text: "This is my new note! HEHE",
+      text: "Hiii, welcome to notes app !!",
       date: "15/07/2023"
     },
   ]);
