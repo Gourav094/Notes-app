@@ -109,3 +109,6 @@ textarea:focus {
 .search input:focus {
 	outline: none;
 }
+@media only screen and (max-width : 200px){
+	display:none;
+}
